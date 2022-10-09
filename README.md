@@ -1,5 +1,4 @@
 # Computing Systems Team
-<<<<<<< HEAD
 
 ## Team Lead: Roy Zabetski
 
@@ -8,8 +7,3 @@
 # Rules of Folders
 
 # Table of Contents:
-
-
-
-## Team Lead: Roy Zabetski
-
